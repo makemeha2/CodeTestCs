@@ -1,0 +1,7 @@
+D:\STUDY\Coding\CSharp\CodeTestLv2\CodeTestLv2\obj\Debug\CodeTestLv2.csprojAssemblyReference.cache
+D:\STUDY\Coding\CSharp\CodeTestLv2\CodeTestLv2\obj\Debug\CodeTestLv2.csproj.CoreCompileInputs.cache
+D:\STUDY\Coding\CSharp\CodeTestLv2\CodeTestLv2\bin\Debug\CodeTestLv2.exe.config
+D:\STUDY\Coding\CSharp\CodeTestLv2\CodeTestLv2\bin\Debug\CodeTestLv2.exe
+D:\STUDY\Coding\CSharp\CodeTestLv2\CodeTestLv2\bin\Debug\CodeTestLv2.pdb
+D:\STUDY\Coding\CSharp\CodeTestLv2\CodeTestLv2\obj\Debug\CodeTestLv2.exe
+D:\STUDY\Coding\CSharp\CodeTestLv2\CodeTestLv2\obj\Debug\CodeTestLv2.pdb
